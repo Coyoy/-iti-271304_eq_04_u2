@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Z_ITI-271304_U2_E04"
+rootProject.name = "Z-ITI_271304_U2_E04"
 include(":app")
  

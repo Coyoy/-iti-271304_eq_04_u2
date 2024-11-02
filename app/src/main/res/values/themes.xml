@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Z_ITI271304_U2_E04" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.ZITI_271304_U2_E04" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Z_ITI271304_U2_E04" parent="Base.Theme.Z_ITI271304_U2_E04" />
+    <style name="Theme.ZITI_271304_U2_E04" parent="Base.Theme.ZITI_271304_U2_E04" />
 </resources>
